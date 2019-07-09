@@ -1,0 +1,1 @@
+exports.modules.data = 'iooo';
